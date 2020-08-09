@@ -9,6 +9,7 @@ _(загрузка из яндекса картинок не работает)_
 
 <img src="imgExample/66-keira-knightley.jpg" width="500" >
 <img src="imgExample/result1.jpg" width="500"> 
+
 ____
 
 <img src="imgExample/180134_or.jpg"  width="500">  
