@@ -1,0 +1,11 @@
+C:\Users\Артем\Desktop\из картинок картинка\PFP\bin\Debug\PFP.exe
+C:\Users\Артем\Desktop\из картинок картинка\PFP\bin\Debug\PFP.pdb
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\WindowsFormsApplication6.Main.resources
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\WindowsFormsApplication6.Load.resources
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.Properties.Resources.resources
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\WindowsFormsApplication6.Settings.resources
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.exe
+C:\Users\Артем\Desktop\из картинок картинка\PFP\obj\x86\Debug\PFP.pdb

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FolderImgPath>C:\Users\Артем\Pictures\Мемы</FolderImgPath>
+  <ImgSavePath>C:\Users\Артем\Pictures\кеке.jpg</ImgSavePath>
+  <RoundTo>10</RoundTo>
+  <LimitPercent>40</LimitPercent>
+</Configuration>
